@@ -1,2 +1,1 @@
-# awrzb-project
-Projekt zaliczeniowy | "Rejestr zgłoszeń błędów"
+Dokumentacja projektu aplikacji webowej – gałąź główna.
