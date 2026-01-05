@@ -1,1 +1,2 @@
-Opis projektu – wersja z gałęzi main
+# Opis projektu aplikacji
+pis projektu – wersja z gałęzi main
