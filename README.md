@@ -1,1 +1,1 @@
-Dokumentacja projektu aplikacji webowej – gałąź główna.
+Opis projektu – wersja z gałęzi main
